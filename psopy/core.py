@@ -8,13 +8,12 @@ class pso:
 	# -- Constructor
 	def __init__(self, objective, lb, ub, max_iter=100, tol=1e-8):
 		self.objective = objective
-		self.lb = lb
-		self.ub = ub
 
 		self.max_iter = max_iter
 		self.tol = tol
 		self.delta = delta
 		self.num_particles = num_particles
+		self.c1 = c1
 
 	# -- Public Methods
 
