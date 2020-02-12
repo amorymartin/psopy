@@ -1,10 +1,7 @@
-Sample Module Repository
+psopy: Particle Swarm Optimization (PSO) for Python
 ========================
 
-This simple project is an example repo for Python projects.
+This simple project is an implementation of particle swarm optimization (PSO) for constrained optimization problems in python.
 
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
-
+(c) Amory Martin 2020
 ---------------
-
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
