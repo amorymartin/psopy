@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 
+
+"""
+python3 -m tests.test_advanced
+"""
+
 from .context import sample
 
 import unittest
